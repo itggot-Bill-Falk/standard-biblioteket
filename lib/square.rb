@@ -1,6 +1,5 @@
 def square(number)
     output = number * number
-    print output
+    return output
 end
 
-square(15)

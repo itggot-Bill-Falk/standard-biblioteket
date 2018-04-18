@@ -1,6 +1,4 @@
 def cube(number)
     output = number * number * number
-    print output
+    return output
 end
-
-cube(-3)
