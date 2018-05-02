@@ -9,5 +9,3 @@ def append(arr,num)
    output = arr << num
     return output
 end
-
-
